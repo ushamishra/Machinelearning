@@ -1,0 +1,14 @@
+{
+    "notebook.cellFocusIndicator": "border",
+    "notebook.cellToolbarVisibility": "hover",
+    "workbench.colorCustomizations": {
+        "editor.background": "#ffffff",
+        "editor.foreground": "#000000",
+        "sideBar.background": "#ffffff",
+        "activityBar.background": "#ffffff",
+        "titleBar.activeBackground": "#ffffff",
+        "panel.background": "#ffffff",
+        "terminal.background": "#ffffff"
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
